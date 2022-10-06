@@ -36,7 +36,11 @@ print("Word Count in file =",count)
 ```
 
 ### OUTPUT:
-![output](.//home/sec/Pictures/Screenshots/countt.png
+![countt](https://user-images.githubusercontent.com/113497340/194223146-2a8c4005-ddd2-427c-a28d-f9b5c10e176d.png)
+
+![zia file](https://user-images.githubusercontent.com/113497340/194223216-a8af6726-081f-4fb3-a4ee-6719d43ad92f.png)
+
+
 
 
 
