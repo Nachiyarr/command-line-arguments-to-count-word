@@ -29,7 +29,7 @@ End the program.
 ```
 import sys
 count=0
-with open(sys.argv[0],'r') as f:
+with open(sys.argv[1],'r') as f:
     for line in f:
         word=line.split()
         count += len(word)
@@ -37,9 +37,11 @@ print("Word Count in file =",count)
 ```
 
 ### OUTPUT:
-![countt](https://user-images.githubusercontent.com/113497340/194223146-2a8c4005-ddd2-427c-a28d-f9b5c10e176d.png)
+![zia py](https://user-images.githubusercontent.com/113497340/195771530-980010be-d6fd-45b3-ba0b-06578d352b4f.png)
 
-![zia file](https://user-images.githubusercontent.com/113497340/194223216-a8af6726-081f-4fb3-a4ee-6719d43ad92f.png)
+
+![Screenshot from 2022-10-14 11-15-56](https://user-images.githubusercontent.com/113497340/195771838-612bf3d1-088a-45c6-986e-a2e497b51215.png)
+
 
 
 
